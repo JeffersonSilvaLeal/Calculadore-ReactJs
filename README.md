@@ -67,4 +67,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Calculadora 
+## Criado uma simples calculadora para poder implementar, o conhecimento adquirido em fundamentos de react, ultilizando os fundamentos dessa biblioteca Js.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)![calculadora React](https://user-images.githubusercontent.com/74872760/195162880-afa0f06d-e63b-44f5-85f3-48f3c33841c5.png)
+
+
+
